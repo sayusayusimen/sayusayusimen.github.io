@@ -1,0 +1,15 @@
+body{
+    color:#b3b3b3;
+    background-image: url("umi.JPG");
+    background-repeat: no-repeat;            /* 背景を繰り返さない */
+    background-position: 50% 0%;            /* 背景画像の位置は画面中央 */
+    background-attachment:fixed;             /* 背景画像を固定する */
+    font-size: 0.9em;
+}
+h1{
+    color:#ffffff;
+}
+div#main{
+margin: 10em 0px 20em 4em;
+opacity:0.8;}
+p.r {color:#ffffff;}
